@@ -1,0 +1,112 @@
+            body {
+                font-family: 'Roboto', sans-serif;
+            }
+            
+            .fa {
+                font-size: 22px;
+            }
+            
+            .menugrey {
+                color: #f8f8f8;
+            }
+            
+            .textblack {
+                color: #323232;
+            }
+            
+            .textlightgrey {
+                color: #c5bba2;
+            }
+            
+            .textgrey {
+                color: #888888;
+            }
+            
+            .bgwhite {
+                color: #ffffff;
+            }
+            
+            .bg-light {
+                background-color: #f8f8f8!important;
+            }
+            
+            .navbar-light .navbar-nav .active>.nav-link {
+                color: #c5bba2;
+            }
+            
+            .navbar-light .navbar-nav .nav-link {
+                color: #323232;
+            }
+            
+            .nav-item {
+                text-transform: uppercase;
+            }
+            
+            .logo {
+                font-family: 'Ruthie', cursive;
+                font-size: 14vw;
+                margin: 40px 0 40px 0;
+            }
+            
+            .undertitle {
+                font-family: 'Big Shoulders Text', cursive;
+                display: block;
+                position: relative;
+                top: -64px;
+                left: -49px;
+                font-size: 1.7vw;
+                text-transform: uppercase;
+                font-style: normal;
+            }
+            
+            .card {
+                border: none;
+            }
+            
+            .card-title {
+                font-size: 20px;
+                text-transform: uppercase;
+            }
+            
+            .card-subtitle {
+                text-transform: uppercase;
+                margin: -10px 0 10px 0;
+                font-size: 14px;
+            }
+            
+            .nextlink:hover {
+                color: #323232;
+                text-decoration: none;
+            }
+            
+            .nav-item {
+                margin: 0 20px 0 20px;
+            }
+            
+            .content {}
+            
+            .sidebar {}
+            
+            .portrait-border {
+                display: block;
+                position: relative;
+                width: 142px;
+                border-radius: 50%;
+                border: 1px solid #888888;
+                margin: auto;
+            }
+            
+            .portrait {
+                width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                margin: 5px;
+                background-image: url("portrait.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .social-box {
+                width: fit-content;
+                margin: auto;
+            }
